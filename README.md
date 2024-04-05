@@ -1,2 +1,2 @@
-# Proj_Calculadora_DSA
+# Marcos Gregorio
 Projeto de desenvolvimento calculadora, curso DSA.
